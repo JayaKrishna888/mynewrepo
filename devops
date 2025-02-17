@@ -1,3 +1,5 @@
 Designed and Implemented a robust and scalable AWS three-tier web architecture to support high-availability and fault tolerant application. Frontend Tier: Deployed web servers using Amazon EC2 instances behind an Elastic Load Balancer (ALB) to ensure seamless load distribution and redundancy. Configured Amazon Route 53 for DNS and traffic management. Application Tier: Designed and deployed the application tier within a private VPC using isolated subnets for enhanced security. Configured NAT Gateways to enable outbound internet access for application servers while blocking inbound traffic. Integrated with an Internet Gateway for controlled communication with the frontend tier and external APIs. Applied security groups and network ACLs to restrict access and ensure compliance with best practices. 
 fghghcgjc
 cgjcjgcj
+123456
+789456
